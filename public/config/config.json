@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x435E3AB72B12F068ef8FcAf8Ca0c953d157d0074",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x435E3AB72B12F068ef8FcAf8Ca0c953d157d0074",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Funcles",
+  "SYMBOL": "FUNCLES",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 85000000000000000,
+  "DISPLAY_COST": 0.085,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/assets/0x435E3AB72B12F068ef8FcAf8Ca0c953d157d0074/>",
+  "SHOW_BACKGROUND": true
+}
